@@ -1,0 +1,1 @@
+graalvm-java-method-embedding
